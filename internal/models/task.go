@@ -8,5 +8,3 @@ type Task struct {
     Status      bool `json:"status"`
 }
 
-// ModelInitializer implementation
-func (Task) InitModels() {}
